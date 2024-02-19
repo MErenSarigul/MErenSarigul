@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Mehmet Eren Sarıgül
+- I'm a CS major student at Bilkent University
